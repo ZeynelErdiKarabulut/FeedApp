@@ -11,6 +11,6 @@ Calorie tracking app is written in Kotlin using Architecture Compontents such as
 
 Main Fragment | Recipes Fragment
 -------------------------|-------------------------
-(https://github.com/ZeynelErdiKarabulut/FeedApp/blob/master/screenshots/1.jpg)   |  ![](https://github.com/ZeynelErdiKarabulut/FeedApp/blob/master/screenshots/2.jpg)
+![](https://github.com/ZeynelErdiKarabulut/FeedApp/blob/master/screenshots/1.jpg)  |  ![](https://github.com/ZeynelErdiKarabulut/FeedApp/blob/master/screenshots/2.jpg)
 
 
