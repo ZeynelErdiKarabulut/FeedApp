@@ -1,0 +1,1 @@
+/* * Copyright (c) 2020 Zeynel Erdi */package com.feedapp.app.data.modelsimport androidx.annotation.Keep/** * Class wrapper for custom products when loading from Firebase */@Keepdata class FoodProductFBWrapper constructor(val list: List<FoodProduct> = listOf())
